@@ -1,0 +1,2 @@
+# premium-involute-gear-001-involute-gear-cutting-tooth
+Tired of struggling with involute gear calculations and ending up with non-meshing teeth? This Notion template transforms complex gear cutting math into a streamlined, visual workflow so you can craft perfect tooth forms every time.  The Involute Gear Cutting &amp; Tooth Form Craft Hub eliminates the guesswork from gear design by integrating all essent
